@@ -125,15 +125,16 @@ I enjoy designing AI systems that can reason, automate workflows, and deliver me
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdvaitMhalungekar&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitMhalungekar&theme=github-dark-blue&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AdvaitMhalungekar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitMhalungekar&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdvaitMhalungekar&theme=github_dark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitMhalungekar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
+
 
 
 
