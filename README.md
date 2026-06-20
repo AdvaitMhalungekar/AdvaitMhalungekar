@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving\&height=300\&text=Advait%20Mhalungekar\&fontSize=65\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Building%20Intelligent%20Systems%20with%20AI\&descAlignY=58\&color=0:0F172A,100:2563EB)](https://github.com/AdvaitMhalungekar)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Advait%20Mhalungekar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20with%20AI&descAlignY=58&color=0:000000,100:F59E0B)](https://github.com/AdvaitMhalungekar)
 
 <h3 align="center">
 AI Engineer • Agentic AI • LLM Applications • Intelligent Systems
@@ -114,6 +114,7 @@ I enjoy designing AI systems that can reason, automate workflows, and deliver me
 
 ## 🏆 Highlights
 
+* 🏆 Domain Winners (Women Safety) at Morpheus Hack 26
 * 🚀 Meta Llama Hackathon Participant
 * 🤖 Built AI applications across NLP, Computer Vision, and Agentic AI
 * 💡 Passionate about developing practical AI solutions with real-world impact
